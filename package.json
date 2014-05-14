@@ -1,6 +1,6 @@
 {
     "name": "mocha-test",
-    "description": "mocha test example for a card game test app",
+    "description": "mocha test that verifies a Post module",
     "author": "Robert Talamantez <robert.talamantez2@gmail.com>",
     "dependencies": {
         "grunt": "*"
