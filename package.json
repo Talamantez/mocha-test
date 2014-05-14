@@ -1,0 +1,16 @@
+{
+    "name": "mocha-test",
+    "description": "mocha test example for a card game test app",
+    "author": "Robert Talamantez <robert.talamantez2@gmail.com>",
+    "dependencies": {
+        "grunt": "*"
+    },
+    "devDependencies": {
+        "chai": "~1.9.1",
+        "mocha": "~1.18.2",
+        "grunt-simple-mocha": "*"
+    },
+    "scripts": {
+        "test": "test/*.js"
+    }
+}
