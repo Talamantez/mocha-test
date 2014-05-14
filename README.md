@@ -1,4 +1,4 @@
 mocha-test
 ==========
 
-example of mocha testing using a playing card example
+mocha test that verifies a Post module
